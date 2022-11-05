@@ -12,8 +12,10 @@ Users should be able to:
 - See hover for interactive elements
 
 ### Screenshot
-
+- desktop-screenshot
 ![](./screenshot.PNG)
+- mobile-screenshot
+- ![](./mobile-screenshot.PNG)
 
 ### Links
 
